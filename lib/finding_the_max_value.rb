@@ -3,5 +3,6 @@ def find_max_value(array)
   maximum_value = nil
   while count < array.length do
     
+    count += 1 
   # Add your solution here
 end
